@@ -1,1 +1,3 @@
 # knights
+
+project notes
